@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/uit-data-science-society",
+    "image": "images/social/github.svg"
+  },
+  {
+      "name": "Facebook",
+      "link": "https://facebook.com/dsclub.uit",
+      "image": "images/social/facebook.svg"
+  },
+  {
+      "name": "Email",
+      "link": "mailto: dsuit@uit.edu.vn ",
+      "image": "images/social/email.svg"
+  }
+]

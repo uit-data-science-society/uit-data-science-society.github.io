@@ -1,0 +1,63 @@
+permalink: 
+title: 'UIT Data Science Society'
+url: 'https://uit-data-science-society.github.io'
+baseurl: '/'
+logo:
+  mobile: "images/logo/logo_mobile.png"
+  mobile_height: "32px"
+  mobile_width: "32px"
+  desktop: "images/logo/logo_full.png"
+  desktop_height: "116px"
+  desktop_width: "287px"
+
+home: 
+  limit_posts: 6
+
+collections:
+  posts:
+    output: true
+    sort_by: weight
+  team:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
+plugins:
+  - jekyll-environment-variables
+  - jekyll-environment-variables
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-coffeescript
+  - jekyll-commonmark-ghpages
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md

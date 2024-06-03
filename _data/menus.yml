@@ -1,0 +1,18 @@
+main:
+  - name: "Bài viết"
+    url: "/posts"
+    weight: 1
+  - name: "Về chúng tôi"
+    url: "/about"
+    weight: 2
+  - name: "Thông tin liên hệ"
+    url: "/contact"
+    weight: 3
+
+footer:
+  - name: "Trang chủ"
+    url: "/"
+    weight: 1
+  - name: "Thông tin liên hệ"
+    url: "/contact"
+    weight: 2
