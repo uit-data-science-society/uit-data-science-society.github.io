@@ -9,6 +9,6 @@ Xây dựng môi trường học thuật chuyên nghiệp cho các bạn sinh vi
 
 ## Thông tin liên hệ
 
-- Email: [mailto:dsclub@uit.edu.vn](mailto:dsclub@uit.edu.vn).
+- Email: [mailto:dsclub@uit.edu.vn](dsclub@uit.edu.vn).
 - Fanpage: [https://www.facebook.com/dsclub.uit](https://www.facebook.com/dsclub.uit).
 - Website: [https://uit-data-science-society.github.io](https://uit-data-science-society.github.io/about).
