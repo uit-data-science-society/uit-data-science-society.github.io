@@ -10,4 +10,4 @@ show_call_box: true
 
 # UIT Data Science Society
 
-Thành lập ngày 01/06/2023 tại Trường Đại học Công nghệ Thông tin, ĐHQG TP. Hồ Chí Minh, là không gian sinh hoạt và nghiên cứu học thuật dành cho sinh viên đam mê khoa học dữ liệu. Với các hoạt động training, seminar và hỗ trợ nghiên cứu, câu lạc bộ mong muốn đẩy mạnh được phong trào nghiên cứu khoa học, đặc biệt liên quan tới lĩnh vực khoa học dữ liệu.
+Câu lạc bộ Khoa học Dữ liệu UIT là không gian sinh hoạt và nghiên cứu học thuật dành cho các bạn sinh viên ngành Khoa học Dữ liệu nói riêng và sinh viên Trường Đại học Công nghệ Thông tin, ĐHQG-HCM nói chung.

@@ -1,7 +1,9 @@
 ---
 title: Về chúng tôi
 layout: page
-image: images/logo/LogoKhoa_ENG.png
+intro_image: images/logo/LogoKhoa_ENG.png
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 description: About
 bodyClass: page-about
 ---
