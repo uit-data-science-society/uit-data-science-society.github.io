@@ -11,8 +11,9 @@ main:
 
 footer:
   - name: "Trang chủ"
+    icon: "home-icon.svg"
     url: "/"
     weight: 1
-  - name: "Thông tin liên hệ"
-    url: "/contact"
-    weight: 2
+  # - name: "Thông tin liên hệ"
+  #   url: "/contact"
+  #   weight: 2

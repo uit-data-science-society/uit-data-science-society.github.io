@@ -11,6 +11,9 @@
               <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
             </li>
             {% endfor %}
+            {% if site.data.social %}
+            {% include social.html %}
+            {% endif %}
           </ul>
         </div>
       </div>
