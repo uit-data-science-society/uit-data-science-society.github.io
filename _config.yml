@@ -1,7 +1,7 @@
 permalink: 
 title: 'UIT Data Science Society'
 url: 'https://uit-data-science-society.github.io'
-baseurl: '//'
+baseurl: '/'
 logo:
   mobile: "images/logo/logo_mobile.png"
   mobile_height: "32px"
