@@ -3,10 +3,6 @@ Câu lạc bộ Khoa học Dữ liệu UIT - UIT Data Science Society
 
 ![logo](images/logo/logo_full.png)
 
-## Mục tiêu
-
-Xây dựng môi trường học thuật chuyên nghiệp cho các bạn sinh viên trong lĩnh vực Khoa học Dữ liệu và Trí tuệ Nhân tạo.
-
 ## Thông tin liên hệ
 
 - Email: [dsclub@uit.edu.vn](mailto:dsclub@uit.edu.vn).
