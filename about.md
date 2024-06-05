@@ -1,6 +1,7 @@
 ---
 title: Về chúng tôi
 layout: page
+image: images/logo/LogoKhoa_ENG.png
 description: About
 bodyClass: page-about
 ---
