@@ -1,14 +1,14 @@
 ---
 title: Về chúng tôi
 layout: page
-intro_image: images/logo/LogoKhoa_ENG.png
+intro_image: images/social/about.jpeg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 description: About
 bodyClass: page-about
 ---
 
-UIT Data Science Society, thành lập ngày 01/06/2023, là một câu lạc bộ học thuật đặt dưới sự quản lý và giám sát trực tiếp của bộ môn Khoa học Dữ liệu, Khoa Khoa học và Kỹ thuật Thông tin, Trường Đại học Công nghệ Thông tin, ĐHQG-HCM.
+UIT Data Science Society, thành lập ngày 01/06/2023, là một câu lạc bộ học thuật đặt dưới sự quản lý và hướng dẫn của bộ môn Khoa học Dữ liệu, Khoa Khoa học và Kỹ thuật Thông tin, Trường Đại học Công nghệ Thông tin, ĐHQG-HCM.
 
 Với tôn chỉ là tạo ra một không gian sinh hoạt và môi trường nghiên cứu học thuật chuyên nghiệp dành cho các bạn sinh viên trong lĩnh vực Khoa học Dữ liệu và Trí tuệ Nhân tạo, các hoạt động chính của câu lạc bộ bao gồm hai nội dung chính: Nghiên cứu và Đào tạo, tương ứng với hai chương trình chính là Training Program và UIT Data Science Sharing.
 
